@@ -62,8 +62,8 @@ jays-store/
 
 ## GitHub
 
-**Repository link:** ______________________________
-**Netlify live link:** ______________________________  
+**Repository link:** https://github.com/josephagalga/jays_store-thrive_africa.git
+**Netlify live link:** https://jayssore.netlify.app/ 
 **Mobile responsiveness bonus:** Completed
 
 ## Reflection
